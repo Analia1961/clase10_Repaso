@@ -1,1 +1,1 @@
-import "./styles.css";
+console.log("Clase 10 Repaso");
